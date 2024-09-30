@@ -15,7 +15,7 @@ const config: Config = {
         foreground: "var(--foreground)",
       },
       fontFamily: {
-        sans: ['Lexend', 'sans-serif']
+        sans: ['Jost', 'sans-serif']
       }
     },
   },
